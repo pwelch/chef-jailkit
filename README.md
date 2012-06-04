@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/[pwelch]/[chef-jailkit].png)](http://travis-ci.org/[pwelch]/[chef-jailkit])
+[![Build Status](https://secure.travis-ci.org/pwelch/chef-jailkit.png)](http://travis-ci.org/pwelch/chef-jailkit)
 
 DESCRIPTION
 ===========

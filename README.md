@@ -37,8 +37,8 @@ Tests
 
 Running locally:
 
-`BUNDLE_GEMFILE=test/support/Gemfile rake knife`
-`BUNDLE_GEMFILE=test/support/Gemfile rake foodcritic`
+* `BUNDLE_GEMFILE=test/support/Gemfile rake knife`
+* `BUNDLE_GEMFILE=test/support/Gemfile rake foodcritic`
 
 License and Author
 ==================

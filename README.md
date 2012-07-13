@@ -5,7 +5,7 @@ DESCRIPTION
 
 Installs [Jailkit](http://olivier.sessink.nl/jailkit/).
 
-Plateform
+Platform
 =========
 
 The following platforms have been test with this cookbook:
@@ -28,6 +28,17 @@ Limitations
 ===========
 
 * Only installs jailkit. Does not use any of jailkit's functionality.
+
+Tests
+=====
+
+* [MVT: Foodcritic and Travis CI](http://nathenharvey.com/blog/2012/05/29/mvt-foodcritic-and-travis-ci/)
+* [MVT: Knife Test and Travis CI](http://nathenharvey.com/blog/2012/07/06/mvt-knife-test-and-travisci/)
+
+Running locally:
+
+`BUNDLE_GEMFILE=test/support/Gemfile rake knife`
+`BUNDLE_GEMFILE=test/support/Gemfile rake foodcritic`
 
 License and Author
 ==================
